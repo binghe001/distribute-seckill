@@ -77,7 +77,7 @@
 说起秒杀系统，我相信学习这个专栏的你一定对秒杀系统有所了解，甚至多多少少也参与了秒杀活动。为啥？因为国内头部电商平台每年的618、双11都会举行大促活动，相信你是参与过的，最起码你可能为这些活动贡献了流量。而每年的618、双11最直观的体现就是流量和交易额。
 
 <div align="center">
-    <img src="images/scekill-2023-04-16-005.jpg?raw=true" width="80%">
+    <img src="images/scekill-2023-04-16-005.jpg?raw=true" width="90%">
     <br/>
 </div>
 
@@ -94,7 +94,7 @@
 所以，冰河总结了秒杀系统所涉及到的最核心的技术内容，整理后如下图所示。
 
 <div align="center">
-    <img src="images/scekill-2023-04-16-006.png?raw=true" width="80%">
+    <img src="images/scekill-2023-04-16-006.png?raw=true" width="90%">
     <br/>
 </div>
 
@@ -128,7 +128,7 @@
 * 空间说明：为知识星球的用户提供项目代码提交空间，方便针对项目进行技术交流，你可以把自己实现的《Seckill秒杀系统》源码提交到空间中，按照 `项目名称-用户星球编号-作者名称` 的格式创建仓库，例如 `seckill-1-binghe`。
 
 <div align="center">
-    <img src="images/scekill-2023-04-16-007.png?raw=true" width="80%">
+    <img src="images/scekill-2023-04-16-007.png?raw=true" width="90%">
     <br/>
 </div>
 
@@ -153,7 +153,7 @@
 说了这么多，前提条件是要加入**冰河技术**知识星球进行学习，如何加入星球呢？今天，再次为大家发放一波优惠券，名额不多，先到先得。
 
 <div align="center">
-    <img src="images/seckill-2023-04-16-008.png?raw=true" width="80%">
+    <img src="images/seckill-2023-04-16-008.png?raw=true" width="90%">
     <br/>
 </div>
 

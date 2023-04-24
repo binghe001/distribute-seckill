@@ -37,7 +37,7 @@
 添加微信：[hacker_binghe](https://binghe.gitcode.host/images/personal/hacker_binghe.jpg) - 备注来意
 
 ## 关于本仓库
-📚 本专栏是 **冰河技术** 知识星球《手写秒杀系统》专栏源码，查看文章的课程+源码可以加入 **冰河技术** 知识星球获取。
+📚 本专栏是 **冰河技术** 知识星球《手写秒杀系统》专栏源码的部分源码说明，查看完整的课程+源码可以加入 **冰河技术** 知识星球获取。
 
 
 <div align="center">
